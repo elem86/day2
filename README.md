@@ -3,6 +3,7 @@
 🎯 Day 2 – One Project a Day Until I Get Hired
 
 🧩 Excel data cleaning
+
 Today, I worked with raw, messy data from the FIFA 21 Player Dataset and used Excel to clean and structure it into something usable.
 
 Some challenges I tackled:
